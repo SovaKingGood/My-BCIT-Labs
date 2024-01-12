@@ -1,0 +1,41 @@
+4618_Template.cpp contains the main() function.
+
+It contains some functions created by my instructor. All the lab() functions are created by me, along with all the classes in this folder
+
+Lab Description:
+
+Lab3: Embedded Systems
+
+In this lab, I connected my computer to an embedded microcontroller communicating through the serial port. I can receive its joystick data (two analog inputs), control LEDs, and receive button logic status. Also, I created a debounce function.
+
+Lab4: Etch A Sketch
+
+In this lab I created Etch A Sketch. Using the class CControl I created for lab 3, I was able to receive my microcontroller's joysticks data and button status to move the drawers around the screen and use the push buttons to change colour or reset the screen.
+
+Lab5: Pong
+
+In this lab, I had to create the classic Pong game with an AI opponent. Similarly, I used the same microcontroller to control my paddle up and down using the joysticks with the embedded system. The AI's paddle was programmed to move up or down depending on where the ball is relative to the paddle's position.
+
+The pong's speed and size can be changed on the fly as well.
+
+Lab6: Asteroids
+
+For lab 6 I had the option to create the classic space invaders or asteroids arcade game. I picked asteroids because it looked more fun.
+
+In this program, there is a circle controlled by the embedded system's joystick. This circle is supposed to resemble the spaceship. This spaceship can shoot bullets that always travel up. Astroids will spawn randomly above the screen and come down with random vertical and horizontal speeds.
+
+If a bullet touches an astroid the astroid and bullet will disappear and the score will increase. If the spaceship comes into contact with an asteroid, the asteroid will disappear and the lives variable will decrease.
+
+If lives reach zero, you lose.
+
+Lab7: Ball Sorting Project
+
+**This lab lacks documentation and the use of classes.  
+
+This lab was created on a raspberry pi. I had to sort coloured balls into separate bins. The color of the ball was detected using a raspberry pi camera. 1 servo was used to allow one ball down my 3D printed track while 3 more servos used to guide the ball into the bins.
+
+This project spanned about 3 weeks. This lab took the longest to program but was very rewarding. 
+
+ I understand that documentation is very important especially in the industry. Even though I knew I would I would never work on this project again it is something reget not doing. 
+
+I have a nice video of it in action!

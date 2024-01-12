@@ -42,10 +42,12 @@ If lives reach zero, you lose.
 Lab7: Ball Sorting Project
 
 
-This lab was created on a raspberry pi. I had to sort coloured balls into separate bins. The color of the ball was detected using
-a raspberry pi camera. 1 servo was used to push a ball down my 3D printed track while 3 more servos were used to guide the ball
-into the bins.
+**This lab lacks documentation and the use of classes.  
+
+This lab was created on a raspberry pi. I had to sort coloured balls into separate bins. The colour of the ball was detected using a Raspberry Pi camera. 1 servo was used to allow one ball down my 3D printed track while 3 more servos were used to guide the ball into the bins.
 
 This project spanned about 3 weeks. This lab took the longest to program but was very rewarding. 
 
-I have a nice video of it in action.
+ I understand that documentation is very important, especially in the industry. Even though I knew I would I would never work on this project again it is something regret not doing. 
+
+I have a nice video of it in action!
